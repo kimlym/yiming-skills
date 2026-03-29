@@ -1,0 +1,861 @@
+{
+  "yyds": {
+    "desc": "永远的神",
+    "source": "网络黑话",
+    "date": "2024-01-01",
+    "usage": "表示极度崇拜或赞赏"
+  },
+  "摸鱼": {
+    "desc": "工作中偷懒、不务正业",
+    "source": "职场黑话",
+    "date": "2024-01-01",
+    "usage": "职场俚语"
+  },
+  "内卷": {
+    "desc": "过度竞争、恶性竞争",
+    "source": "网络流行语",
+    "date": "2024-01-01",
+    "usage": "社会现象"
+  },
+  "躺平": {
+    "desc": "放弃内卷，选择低欲望生活",
+    "source": "网络流行语",
+    "date": "2024-01-01",
+    "usage": "生活态度"
+  },
+  "emo": {
+    "desc": "情绪低落、颓废",
+    "source": "网络流行语",
+    "date": "2024-01-01",
+    "usage": "情绪表达"
+  },
+  "绝绝子": {
+    "desc": "绝了，表示极度赞美",
+    "source": "网络流行语",
+    "date": "2024-01-01",
+    "usage": "口语表达"
+  },
+  "咱就是说": {
+    "desc": "语气助词，表达观点",
+    "source": "网络流行语",
+    "date": "2024-01-01",
+    "usage": "口语表达"
+  },
+  "芭比Q": {
+    "desc": "完蛋了、糟糕",
+    "source": "网络流行语",
+    "date": "2024-01-01",
+    "usage": "口语表达"
+  },
+  "破防": {
+    "desc": "心理防线被突破，情绪崩溃",
+    "source": "网络流行语",
+    "date": "2024-01-01",
+    "usage": "情绪表达"
+  },
+  "无语子": {
+    "desc": "无语",
+    "source": "网络流行语",
+    "date": "2024-01-01",
+    "usage": "口语表达"
+  },
+  "纯爱战神": {
+    "desc": "拒绝暧昧，追求纯粹爱情的人",
+    "source": "手动添加",
+    "date": "2026-03-28",
+    "usage": "通用"
+  },
+  "尊嘟假嘟": {
+    "desc": "真的假的",
+    "source": "模拟-最新黑话",
+    "date": "2026-03-28",
+    "usage": "口语表达"
+  },
+  "家人们": {
+    "desc": "对网友的亲昵称呼",
+    "source": "模拟-最新黑话",
+    "date": "2026-03-28",
+    "usage": "口语表达"
+  },
+  "摆烂": {
+    "desc": "彻底放弃，不想努力",
+    "source": "模拟-最新黑话",
+    "date": "2026-03-28",
+    "usage": "态度表达"
+  },
+  "显眼包": {
+    "desc": "爱出风头、引人注目的人",
+    "source": "模拟-2026流行语",
+    "date": "2026-03-28",
+    "usage": "人物描述"
+  },
+  "哈基米": {
+    "desc": "可爱的小猫咪",
+    "source": "模拟-2026流行语",
+    "date": "2026-03-28",
+    "usage": "昵称"
+  },
+  "泰酷辣": {
+    "desc": "太酷了",
+    "source": "模拟-2026流行语",
+    "date": "2026-03-28",
+    "usage": "口语表达"
+  },
+  "挖野菜": {
+    "desc": "恋爱脑，不顾一切爱一个人",
+    "source": "模拟-网络热词",
+    "date": "2026-03-28",
+    "usage": "情感状态"
+  },
+  "科目三": {
+    "desc": "网络爆火舞蹈",
+    "source": "模拟-网络热词",
+    "date": "2026-03-28",
+    "usage": "网络热梗"
+  },
+  "特种兵旅游": {
+    "desc": "高强度、快节奏的旅游方式",
+    "source": "模拟-网络热词",
+    "date": "2026-03-28",
+    "usage": "生活方式"
+  },
+  "颗粒度": {
+    "desc": "精细程度、细节",
+    "source": "模拟-职场黑话",
+    "date": "2026-03-28",
+    "usage": "职场术语"
+  },
+  "对齐": {
+    "desc": "统一认识、沟通确认",
+    "source": "模拟-职场黑话",
+    "date": "2026-03-28",
+    "usage": "职场术语"
+  },
+  "抓手": {
+    "desc": "切入点、突破口",
+    "source": "模拟-职场黑话",
+    "date": "2026-03-28",
+    "usage": "职场术语"
+  },
+  "落地": {
+    "desc": "Execute and complete tasks",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "赋能": {
+    "desc": "Empower systems or teams",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "共创": {
+    "desc": "Co-create with multiple parties",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "共建": {
+    "desc": "Build together through collaboration",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "分发": {
+    "desc": "Distribute to various parties",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "支撑": {
+    "desc": "Support and guarantee",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "体": {
+    "desc": "Corporate jargon",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "感知": {
+    "desc": "Cognition and understanding",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "方法论": {
+    "desc": "Methodological framework",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "融合": {
+    "desc": "Integration and merging",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "调性": {
+    "desc": "Style and tone",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "心智": {
+    "desc": "Cognitive pattern, thinking mode",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "解耦": {
+    "desc": "Reduce coupling",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "拆解": {
+    "desc": "Decompose and break down",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "集成": {
+    "desc": "Integrate and merge",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "打法": {
+    "desc": "Strategy and action plan",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "解法": {
+    "desc": "Solution approach",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "沉淀": {
+    "desc": "Accumulate experiences",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "拉齐": {
+    "desc": "Level up, unify standards",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "对标": {
+    "desc": "Benchmark against best practices",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "对焦": {
+    "desc": "Focus on clear objectives",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "拉通": {
+    "desc": "Connect all links",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "打通": {
+    "desc": "Remove obstacles",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "打透": {
+    "desc": "Deep understanding",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "吃透": {
+    "desc": "Thoroughly understand",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "迁移": {
+    "desc": "Migrate and transition",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "分层": {
+    "desc": "Layer and structure",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "漏斗": {
+    "desc": "Conversion funnel model",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "闭环": {
+    "desc": "Complete loop",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "战役": {
+    "desc": "Important campaign",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "落盘": {
+    "desc": "Land and implement",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "组合拳": {
+    "desc": "Combination of strategies",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "合力": {
+    "desc": "Synergistic effect",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "体系": {
+    "desc": "Complete system architecture",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "心力": {
+    "desc": "Mental energy",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "赛道": {
+    "desc": "Business domain",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "痛点": {
+    "desc": "Core problem",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "生命周期": {
+    "desc": "Complete process",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "履约": {
+    "desc": "Fulfill commitments",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "引爆点": {
+    "desc": "Breakthrough point",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "串联": {
+    "desc": "Connect and link",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "价值转化": {
+    "desc": "Convert input to value",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "链路": {
+    "desc": "Process chain",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "纽带": {
+    "desc": "Connection relationship",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "矩阵": {
+    "desc": "Multi-dimensional structure",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "协同": {
+    "desc": "Coordinate and cooperate",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "反哺": {
+    "desc": "Feedback support",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "点线面": {
+    "desc": "Systematic approach",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "认知": {
+    "desc": "Understanding",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "强化认知": {
+    "desc": "Deepen understanding",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "强化心智": {
+    "desc": "Strengthen cognitive patterns",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "击穿心智": {
+    "desc": "Deeply influence cognition",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "下钻": {
+    "desc": "Drill down into details",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "挖掘": {
+    "desc": "Deep exploration",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "交互": {
+    "desc": "Interactive communication",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "兼容": {
+    "desc": "Compatible adaptation",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "包装": {
+    "desc": "Beautify and package",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "附能": {
+    "desc": "Grant abilities",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "响应": {
+    "desc": "Respond and react",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "刺激": {
+    "desc": "Motivate and stimulate",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "规模": {
+    "desc": "Scale effect",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "重组": {
+    "desc": "Reorganize",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "量化": {
+    "desc": "Quantify with data",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "宽松": {
+    "desc": "Relaxed environment",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "资源倾斜": {
+    "desc": "Prioritize resource investment",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "完善逻辑": {
+    "desc": "Optimize logical framework",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "抽离": {
+    "desc": "Corporate jargon",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "发力": {
+    "desc": "Apply strength and effort",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "精细化": {
+    "desc": "Refined management",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "布局": {
+    "desc": "Strategic layout",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "商业模式": {
+    "desc": "Profit model",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "联动": {
+    "desc": "Link and coordinate",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "场景": {
+    "desc": "Application scenario",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "聚焦": {
+    "desc": "Focus and concentrate",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "跟进": {
+    "desc": "Continuous follow-up",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "迭代": {
+    "desc": "Continuous optimization",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "快速响应": {
+    "desc": "Quick reaction",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "影响力": {
+    "desc": "Influence capability",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "价值": {
+    "desc": "Value output",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "细分": {
+    "desc": "Segment market",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "垂直领域": {
+    "desc": "Vertical industry",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "维度": {
+    "desc": "Analysis dimension",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "定性定量": {
+    "desc": "Qualitative and quantitative analysis",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "去中心化": {
+    "desc": "Remove centralized control",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "关键路径": {
+    "desc": "Critical path",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "接地气": {
+    "desc": "Close to reality",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "梳理": {
+    "desc": "Organize and summarize",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "输出": {
+    "desc": "Deliver and output",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "格局": {
+    "desc": "Strategic perspective",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "生态": {
+    "desc": "Ecosystem",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "结果导向": {
+    "desc": "Result-oriented approach",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "话术": {
+    "desc": "Expression techniques",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "同步": {
+    "desc": "Sync and update",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "分享": {
+    "desc": "Share and spread",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "勾兑": {
+    "desc": "Communicate and coordinate",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "流程": {
+    "desc": "Business process",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "感知度": {
+    "desc": "Degree of being perceived",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "加速": {
+    "desc": "Accelerate progress",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "用户画像": {
+    "desc": "User profile",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "打磨": {
+    "desc": "Carefully optimize",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "摸索": {
+    "desc": "Explore and try",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "提炼": {
+    "desc": "Extract essence",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  },
+  "玩法": {
+    "desc": "Operation mode",
+    "source": "GitHub-internet-industry-terms-generator",
+    "date": "2026-03-29",
+    "usage": "Corporate jargon",
+    "category": "Internet Workplace"
+  }
+}
